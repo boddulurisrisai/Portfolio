@@ -1,6 +1,7 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
+    
 }
 #heading{
     font-size: 25px;
@@ -10,6 +11,7 @@
 h1,h2{
     text-align: center;
     color: maroon;
+    font-size: 30px;
 }
 
 img{
@@ -20,11 +22,20 @@ p{
     font-size: 20px;
     color:black;
     background-color: white;
+    border: 3px solid black
+    
 }
 div{
     background-color: white;
+  
 }
 
 a:hover{
     background-color: orange;
+}
+
+#profile-image{
+    width: 200px;
+    margin: 20px auto;
+    padd
 }
