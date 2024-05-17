@@ -1,0 +1,30 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+#heading{
+    font-size: 25px;
+    color: maroon;
+    align: center;
+}
+h1,h2{
+    text-align: center;
+    color: maroon;
+}
+
+img{
+    align-items: center;
+}
+
+p{
+    font-size: 20px;
+    color:black;
+    background-color: white;
+}
+div{
+    background-color: white;
+}
+
+a:hover{
+    background-color: orange;
+}
